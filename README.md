@@ -1,17 +1,17 @@
-# r2hc
+# rgb-to-hex-cli
 
-**r2hc** is a CLI tool that converts rgb to hex.
+**rgb-to-hex-cli** is a CLI tool that converts rgb to hex.
 
-![npm](https://img.shields.io/npm/v/r2hc)
-![license](https://img.shields.io/npm/l/r2hc)
+![npm](https://img.shields.io/npm/v/rgb-to-hex-cli)
+![license](https://img.shields.io/npm/l/rgb-to-hex-cli)
 
 ## Quick Start
 
-Get **r2hc** up and running quickly!
+Get **rgb-to-hex-cli** up and running quickly!
 
 1. **Run**:
     ```bash
-    npx r2hc 255 0 0
+    npx rgb-to-hex-cli 255 0 0
     ```
 2. **Done!**
 
@@ -27,7 +27,7 @@ This will convert the RGB values `(255, 0, 0)` to its HEX equivalent, and displa
 
 ## Contributing
 
-We welcome contributions to **r2hc**! Whether it's reporting a bug, suggesting an enhancement, or submitting a pull request, your input is valued.
+We welcome contributions to **rgb-to-hex-cli**! Whether it's reporting a bug, suggesting an enhancement, or submitting a pull request, your input is valued.
 
 ## License
 
